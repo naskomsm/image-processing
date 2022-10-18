@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python3 crop.py
 ```
 
-# Blur detection
+## Blur detection
 
 - Go into /blurry_images/ directory
 - Put images with you want to check for blur inside /images/ folder.
